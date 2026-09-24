@@ -31,7 +31,7 @@ const Skills = () => {
         { name: 'Node.js', icon: <FaNodeJs className="text-green-500" />, level: 85, color: '#68A063' },
         { name: 'Express.js', icon: <SiExpress />, level: 82, color: '#000000' },
         { name: 'Python', icon: <FaPython className="text-blue-400" />, level: 80, color: '#3776AB' },
-        { name: 'Express.js', icon: <SiFirebase className="text-yellow-500" />, level: 75, color: '#FFCA28' },
+        { name: 'Node.js', icon: <FaNodeJs className="text-green-500" />, level: 75, color: '#68A063' },
       ]
     },
     database: {
